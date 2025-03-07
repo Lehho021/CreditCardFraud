@@ -15,7 +15,7 @@ Penipuan kartu kredit telah menjadi ancaman serius bagi industri keuangan global
 
 * Data dari Kaggle
 * Excel
-* Jupyter Notebook dan VS Code
+* Jupyter Notebook
 * BiqQuery
 * Tableau
 

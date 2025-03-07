@@ -25,4 +25,4 @@ Proyek ini bersifat open-source dan saya mendorong kontribusi dari komunitas. Ji
 
 ## License 
 
-M.I.T LICENSE
+MIT LICENSE
